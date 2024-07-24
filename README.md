@@ -1,0 +1,1 @@
+ It’s a website where the user can view and add their desired clothing to the cart and make further payments. User can also view the details of the product individually and can also delete the product before proceeding with the payment
